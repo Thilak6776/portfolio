@@ -1,0 +1,40 @@
+img{
+    float: right;
+    
+    height: 220px;
+    width: 30%;
+    padding-right: 10%;
+}
+body{
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color:brown;
+    border: solid black;
+    padding-left: 1%;
+}
+h1{
+    text-align: center;
+    background-color:rgb(56, 31, 31);
+    color: whitesmoke;
+    
+    margin: 0%;
+}
+.lin{
+    
+    text-align: center;
+    
+    word-spacing: 2cm;
+}
+a{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+i{
+    text-decoration: underline;
+}
+.p1{
+    text-align: center;
+}
+.tex{
+    text-align: center;
+}
