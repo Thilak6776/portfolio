@@ -2,7 +2,7 @@ img{
     float: right;
     
     height: 220px;
-    width: 30%;
+    width: 40%;
     padding-right: 10%;
 }
 body{
@@ -11,6 +11,9 @@ body{
     background-color:brown;
     border: solid black;
     padding-left: 1%;
+}
+.container{
+    background-color:antiquewhite;
 }
 h1{
     text-align: center;
